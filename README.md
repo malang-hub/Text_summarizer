@@ -27,4 +27,7 @@
 - Jupyter Notebook
 
 ## 📁 Folder Structure
+├── proxenix_ts.ipynb # Main Jupyter notebook
+├── README.md # Project introduction and usage
+└── Requirement.txt # Used Tools
 
